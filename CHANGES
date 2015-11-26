@@ -1,0 +1,14 @@
+
+
+Changes with redis-twemproxy-agent 1.2                         3  Nov 2015 
+
+    *) Fixbug: redo sub after reconnect
+
+Changes with redis-twemproxy-agent 1.1                         30 Oct 2015
+
+    *) Feature: Check if server address in Twemproxy configure file.
+                Nerther update nor restart Twemproxy when start.
+
+Changes with redis-twemproxy-agent 1.0                         29 Oct 2015
+
+    *) copy from github
